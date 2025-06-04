@@ -1,1 +1,2 @@
 this is the text i will public on GitHub using vs code
+now this the second text to run on that file 
